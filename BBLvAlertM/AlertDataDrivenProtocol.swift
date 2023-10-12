@@ -1,8 +1,8 @@
 //
 //  AlertDataDrivenProtocol.swift
-//  AssociatedBanks
+//  AlertQueue
 //
-//  Created by D7Test on 2021/04/02.
+//  Created by BBLv on 2021/04/02.
 //
 
 import Foundation
